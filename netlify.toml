@@ -6,8 +6,8 @@
   NODE_VERSION = "12" 
   YARN_FLAGS = "--no-ignore-optional"
 [template.environment]
-  API_URL = "https://wonderful-volhard-8bdfc8.netlify.app/"
-  SENDGRID_API_KEY = "Your Sendgrid API Key (required for newsletter signup box)"
-  SENDGRID_WELCOME_SENDER_EMAIL = "Sendgrid Welcome Sender Email"
-  SENDGRID_WELCOME_SENDER_NAME = "Sendgrid Welcome Sender Name"
+API_URL = "https://wonderful-volhard-8bdfc8.netlify.app/"
+  SENDGRID_API_KEY = "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"
+  SENDGRID_WELCOME_SENDER_EMAIL = "publishing@knighttimesnews.com"
+  SENDGRID_WELCOME_SENDER_NAME = "Publishing Knight Times News"
   SENDGRID_WELCOME_TEMPLATE_ID = "Sendgrid Welcome Email Template ID"
