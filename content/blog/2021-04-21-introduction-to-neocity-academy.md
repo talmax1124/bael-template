@@ -1,6 +1,7 @@
 ---
 title: Introduction To NeoCity Academy
 date: Friday October 9th, 2020
+thumbnail: /images/uploads/neocity-people.jpg
 category: News
 ---
 Welcome to NeoCity Academy! If you're new here, my name is Yama and I'd like to welcome you to your news school. I've attended this school since freshman year and I'm currently a junior this year. I'm excited for you guys to join us! I know that this year is different with the COVID-19 pandemic going on, but don't worry, we at NeoCity Academy will make sure everything goes well for the new school year. At this point, you have all chosen to either learn at home or learn face-to-face. Whichever it may be, I'm here to inform you all about our unique schedule, various clubs, volunteering and tips. By the time you finish this, you will feel right at home!
