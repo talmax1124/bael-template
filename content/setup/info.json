@@ -20,7 +20,12 @@
       "name": "Hosted By Netlify",
       "position": "3",
       "link": "https://www.netlify.com/"
+    },
+    {
+      "name": "NeoCity Academy",
+      "position": "4",
+      "link": "https://www.osceolaschools.net/neoc"
     }
   ],
-  "linkcolor": "#2279a8"
+  "linkcolor": "#00274a"
 }
