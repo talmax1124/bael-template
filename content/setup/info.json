@@ -3,7 +3,7 @@
   "sitedescription": "Articles for Knight Times News",
   "siteicon": "/images/uploads/ktlogo.png",
   "showmenu": true,
-  "emailsignup": true,
+  "emailsignup": false,
   "altlayout": false,
   "menu": [
     {
