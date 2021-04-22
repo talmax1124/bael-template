@@ -1,7 +1,7 @@
 ---
 title: What Is Celebrity Influence?
 date: Wednesday April 7th, 2021
-thumbnail: https://articles-knighttimesnews.netlify.app/static/11963de24c7f06ce5a0b1eb300504be2/1920d/hollywood-sign-1598473_1920-1080x675.jpg
+thumbnail: https://old-articles-knighttimesnews.netlify.app/static/11963de24c7f06ce5a0b1eb300504be2/1920d/hollywood-sign-1598473_1920-1080x675.jpg
 category: Arts & Entertainment
 ---
 # How Do Modern Celebs Use Their Power To Their Advantage? Why?
