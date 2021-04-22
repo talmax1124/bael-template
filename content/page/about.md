@@ -1,7 +1,7 @@
 ---
 title: About
 date: 2018-07-07T03:00:50-07:00
-thumbnail: /images/uploads/bael-big.jpg
+thumbnail: https://weiland.stanford.edu/sites/g/files/sbiybj10466/f/styles/full-width-banner-short/public/5.png?itok=4DRgKYGj
 ---
 Information about us can be found in our [homepage](https://knighttimesnews.com/pages/about)
 
